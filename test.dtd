@@ -1,0 +1,8 @@
+<!ELEMENT trip (
+    traverlername,
+    destination,
+    duration,
+    purpose,
+    travelitenerary|vehicle|travelcost|ticket,
+    
+)>

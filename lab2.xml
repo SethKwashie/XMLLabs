@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE trip SYSTEM "C:\Users\TURNTABL\Desktop\XMLLabs\test.dtd" >
 <trip>
     <traverlername></traverlername>
     <destination></destination>
