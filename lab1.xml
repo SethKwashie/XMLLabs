@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+   <directories>
+      <play>
+         <permission>drwxrwxr-x</permission>
+         <link_number>2</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>8192</size>
+         <date>Oct 29 2001</date>
+         <name>play</name>
+      </play>
+      <templates>
+         <permission>drwxr-xr-x</permission>
+         <link_number>2</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>8192</size>
+         <date>Oct 29 2001</date>
+         <name>templates</name>
+      </templates>
+   </directories>
+   <files>
+      <resist>
+         <permission>-rw-rw-r--</permission>
+         <link_number>1</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>5539</size>
+         <date>Jul 27 2000</date>
+         <name>resist</name>
+      </resist>
+      <rory2.html>
+         <permission>-rw-rw-r--</permission>
+         <link_number>1</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>88</size>
+         <date>Sep 28 2001</date>
+         <name>rory2.html</name>
+      </rory2.html>
+      <rory.cgi>
+         <permission>-rwxrwxr-x</permission>
+         <link_number>1</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>1902</size>
+         <date>May 18 2001</date>
+         <name>rory.cgi</name>
+      </rory.cgi>
+      <rory.html>
+         <permission>-rw-r--r--</permission>
+         <link_number>1</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>1679</size>
+         <date>Nov 04 2003</date>
+         <name>rory.html</name>
+      </rory.html>
+      <servlet>
+         <permission>lrwxrwxrwx</permission>
+         <link_number>1</link_number>
+         <uid>root</uid>
+         <gid>bin</gid>
+         <size>25</size>
+         <date>Nov 04 2003</date>
+         <name>servlet</name>
+         <symb_link url="/home/evad/java" />
+      </servlet>
+      <srmadmin.html>
+         <permission>-rw-r--r--</permission>
+         <link_number>2</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>15579</size>
+         <date>Jul 24 2001</date>
+         <name>srmadmin.html</name>
+         <symb_link url="/home/evad/java" />
+      </srmadmin.html>
+      <stu.html>
+         <permission>-rw-r--r--</permission>
+         <link_number>1</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>742</size>
+         <date>Aug 06 2001</date>
+         <name>stu.html</name>
+      </stu.html>
+      <sunglass.gif>
+         <permission>-rw-r--r--</permission>
+         <link_number>1</link_number>
+         <uid>evad</uid>
+         <gid>cc3591</gid>
+         <size>43828</size>
+         <date>Apr 01 2000</date>
+         <name>sunglass.gif</name>
+      </sunglass.gif>
+      <syb.pdf>
+         <permission>lrwxrwxrwx</permission>
+         <link_number>1</link_number>
+         <uid>root</uid>
+         <gid>bin</gid>
+         <size>40</size>
+         <date>Nov 04 2003</date>
+         <name>syb.pdf</name>
+         <symb_link url="../all.pdf" />
+      </syb.pdf>
+   </files>
+</file>
