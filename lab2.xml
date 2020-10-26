@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trip>
+    <traverlername></traverlername>
+    <destination></destination>
+    <duration start="" end=""/>
+    <purpose></purpose>
+    <travelitenerary mode="">
+        <vehicle type="" idtype=""></vehicle>
+        <travelcost currency="" method=""></travelcost>
+        <ticket></ticket>
+
+   </travelitenerary>
+   <accommodation type="">
+        <address></address>
+        <stayduration checkin="" checkout="">
+        <accommodationcost currency="" method=""></accommodationcost>
+   </accommodation>
+    <expenses>
+        <expense type="">
+            <description></description>
+            <amount></amount>
+            <cost currency="" method=""></cost>
+            <recipt></recipt>
+            <date></date>
+        </expense>
+    </expenses>
+
+</trip>
+Ariel Arman Woode3:38 PM
+<trip>
+    <traverlername>Dzifa</traverlername>
+    <destination>Shanghai</destination>
+    <duration start="26-10-2020" end="2-11-2020"/>
+    <purpose>java project</purpose>
+    
+    <travelitenerary mode="air">
+        <vehicle type="jet" idtype="Flight number">FL8220</vehicle>
+        <travelcost currency="USD" method="VISA">8,000</travelcost>
+        <ticket>check email</ticket>
+
+   </travelitenerary>
+   <accommodation type="Hotel">
+        <address>Taipei 101</address>
+        <stayduration checkin="27-10-2020" checkout="1-11-2020">
+        <accommodationcost currency="yen" method="VISA">20,000</accommodationcost>
+   </accommodation>  
+    <expenses>
+        <expense type="meal">
+            <description>sushi</description>
+            <amount>10</amount>
+            <cost currency="yen" method="VISA">200,000,000</cost>
+            <receipt>lol</receipt>
+            <date>27-10-2020</date>
+        </expense>
+        <expense type="transport">
+            <description>Rental car</description>
+            <amount>1</amount>
+            <cost currency="yen" method="cash">4,000</cost>
+            <receipt>hehe</receipt>
+            <date>28-10-2020</date>
+        </expense>
+    </expenses>
+
+</trip>
